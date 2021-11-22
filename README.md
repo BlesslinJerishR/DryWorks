@@ -1,2 +1,3 @@
-# DryWorks
-we just copy paste others successful softwares.
+## DryWorks
+- we just copy paste others successful softwares.
+#### **[ Developer : Nemesis ]**
